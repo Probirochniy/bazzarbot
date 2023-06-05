@@ -1,12 +1,30 @@
 {
   "files": {
     "main.css": "/bazzarbot/static/css/main.5249c59b.css",
-    "main.js": "/bazzarbot/static/js/main.7530a26e.js",
+    "main.js": "/bazzarbot/static/js/main.fbb26942.js",
     "static/js/787.dd8d5867.chunk.js": "/bazzarbot/static/js/787.dd8d5867.chunk.js",
     "static/media/cheeseburger.jpg": "/bazzarbot/static/media/cheeseburger.afb77595527c2d0ebfc6.jpg",
     "static/media/chalmak.jpg": "/bazzarbot/static/media/chalmak.74eb6b5c34bcbadcc01b.jpg",
     "static/media/hamburger.jpg": "/bazzarbot/static/media/hamburger.bb03cf060d8db6cdaefc.jpg",
     "static/media/caesar roll.jpg": "/bazzarbot/static/media/caesar roll.4f005499f44e71393df5.jpg",
+    "static/media/бефстроганов .jpg": "/bazzarbot/static/media/бефстроганов .914f3aff8a4ffe0121e9.jpg",
+    "static/media/Поке с лососем.jpg": "/bazzarbot/static/media/Поке с лососем.b331eb4a74131a03dcfc.jpg",
+    "static/media/поке Калифорния .jpg": "/bazzarbot/static/media/поке Калифорния .40b136ed9442b58edf9a.jpg",
+    "static/media/салат с курицей Дорблю.jpg": "/bazzarbot/static/media/салат с курицей Дорблю.d03fbb31cef10e49ad56.jpg",
+    "static/media/медовик.jpg": "/bazzarbot/static/media/медовик.0015d3a185f1cba90855.jpg",
+    "static/media/гирос с курицей.jpg": "/bazzarbot/static/media/гирос с курицей.c5425e7c51c08d7125dc.jpg",
+    "static/media/Цезарь с курицей.jpg": "/bazzarbot/static/media/Цезарь с курицей.49863693ab9d14bb50cb.jpg",
+    "static/media/чизкейк .jpg": "/bazzarbot/static/media/чизкейк .4ae981fdd421932b6869.jpg",
+    "static/media/Греческий .jpg": "/bazzarbot/static/media/Греческий .5651e6fcae40d96c9c4a.jpg",
+    "static/media/Энди.jpg": "/bazzarbot/static/media/Энди.e328f96c66ffc86b5929.jpg",
+    "static/media/тартар из говядины.jpg": "/bazzarbot/static/media/тартар из говядины.982f1a41007557e9a7f6.jpg",
+    "static/media/пельмени в соусе Карбонара.jpg": "/bazzarbot/static/media/пельмени в соусе Карбонара.c66c8b710a9d09609b4e.jpg",
+    "static/media/кесадилья с курицей.jpg": "/bazzarbot/static/media/кесадилья с курицей.9dabc4a4d9d4b71f87fe.jpg",
+    "static/media/сендвич с лососем.jpg": "/bazzarbot/static/media/сендвич с лососем.8e29692a350b1df4704d.jpg",
+    "static/media/том ям .jpg": "/bazzarbot/static/media/том ям .c5c88b9866ccad367238.jpg",
+    "static/media/Хайпбист бургер .jpg": "/bazzarbot/static/media/Хайпбист бургер .5580c71cd767b275c563.jpg",
+    "static/media/Хайпбист бургер 2.0.jpg": "/bazzarbot/static/media/Хайпбист бургер 2.0.d99da6babd80702c93a6.jpg",
+    "static/media/Ангельские креветки.jpg": "/bazzarbot/static/media/Ангельские креветки.5081f74cc0bcccf1ae20.jpg",
     "static/media/thx_w.png": "/bazzarbot/static/media/thx_w.d12acd79923afc6e431f.png",
     "static/media/thx_b.png": "/bazzarbot/static/media/thx_b.48857822b1b0964eeefd.png",
     "static/media/bbq burger.jpg": "/bazzarbot/static/media/bbq burger.0fdfc2b0ae56999af128.jpg",
@@ -26,11 +44,11 @@
     "static/media/Giros_beef.jpeg": "/bazzarbot/static/media/Giros_beef.a1d03fc64b8c9ad7e7af.jpeg",
     "index.html": "/bazzarbot/index.html",
     "main.5249c59b.css.map": "/bazzarbot/static/css/main.5249c59b.css.map",
-    "main.7530a26e.js.map": "/bazzarbot/static/js/main.7530a26e.js.map",
+    "main.fbb26942.js.map": "/bazzarbot/static/js/main.fbb26942.js.map",
     "787.dd8d5867.chunk.js.map": "/bazzarbot/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5249c59b.css",
-    "static/js/main.7530a26e.js"
+    "static/js/main.fbb26942.js"
   ]
 }
