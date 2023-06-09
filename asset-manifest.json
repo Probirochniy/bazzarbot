@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bazzarbot/static/css/main.66c5d018.css",
-    "main.js": "/bazzarbot/static/js/main.460c1806.js",
+    "main.css": "/bazzarbot/static/css/main.69cbb04b.css",
+    "main.js": "/bazzarbot/static/js/main.dda52d73.js",
     "static/js/787.dd8d5867.chunk.js": "/bazzarbot/static/js/787.dd8d5867.chunk.js",
     "static/media/бефстроганов .jpg": "/bazzarbot/static/media/бефстроганов .914f3aff8a4ffe0121e9.jpg",
     "static/media/Поке с лососем.jpg": "/bazzarbot/static/media/Поке с лососем.b331eb4a74131a03dcfc.jpg",
@@ -26,12 +26,12 @@
     "static/media/thx_b.png": "/bazzarbot/static/media/thx_b.48857822b1b0964eeefd.png",
     "static/media/3081797.png": "/bazzarbot/static/media/3081797.b36ffd47d36a4da60031.png",
     "index.html": "/bazzarbot/index.html",
-    "main.66c5d018.css.map": "/bazzarbot/static/css/main.66c5d018.css.map",
-    "main.460c1806.js.map": "/bazzarbot/static/js/main.460c1806.js.map",
+    "main.69cbb04b.css.map": "/bazzarbot/static/css/main.69cbb04b.css.map",
+    "main.dda52d73.js.map": "/bazzarbot/static/js/main.dda52d73.js.map",
     "787.dd8d5867.chunk.js.map": "/bazzarbot/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66c5d018.css",
-    "static/js/main.460c1806.js"
+    "static/css/main.69cbb04b.css",
+    "static/js/main.dda52d73.js"
   ]
 }
