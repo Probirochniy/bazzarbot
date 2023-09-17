@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bazzarbot/static/css/main.69cbb04b.css",
-    "main.js": "/bazzarbot/static/js/main.44a24766.js",
+    "main.js": "/bazzarbot/static/js/main.84289b7b.js",
     "static/js/787.dd8d5867.chunk.js": "/bazzarbot/static/js/787.dd8d5867.chunk.js",
     "static/media/бефстроганов .jpg": "/bazzarbot/static/media/бефстроганов .914f3aff8a4ffe0121e9.jpg",
     "static/media/Поке с лососем.jpg": "/bazzarbot/static/media/Поке с лососем.b331eb4a74131a03dcfc.jpg",
@@ -27,11 +27,11 @@
     "static/media/3081797.png": "/bazzarbot/static/media/3081797.b36ffd47d36a4da60031.png",
     "index.html": "/bazzarbot/index.html",
     "main.69cbb04b.css.map": "/bazzarbot/static/css/main.69cbb04b.css.map",
-    "main.44a24766.js.map": "/bazzarbot/static/js/main.44a24766.js.map",
+    "main.84289b7b.js.map": "/bazzarbot/static/js/main.84289b7b.js.map",
     "787.dd8d5867.chunk.js.map": "/bazzarbot/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69cbb04b.css",
-    "static/js/main.44a24766.js"
+    "static/js/main.84289b7b.js"
   ]
 }
